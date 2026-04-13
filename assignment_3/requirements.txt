@@ -1,0 +1,7 @@
+openai
+groq
+cohere
+google-generativeai
+requests
+python-dotenv
+streamlit
